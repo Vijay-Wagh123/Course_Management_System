@@ -4,6 +4,7 @@ Welcome to the Course Management System (CMS) project! This system is designed t
 <br>
 <br>
 <b>Features</b>
+<br>
 Course Management: Create, update, and manage course details and schedules.<br>
 Student Enrollment: Register students into courses and track their enrollment status.<br>
 Instructor Management: Manage instructor profiles and assign them to courses.<br>
@@ -13,6 +14,7 @@ Data Persistence: Use Spring Data JPA for efficient database operations and MySQ
 <br>
 <br>
 <b>Technology used</b>
+<br>
 Spring Boot: Provides a robust framework for building production-ready applications with ease.<br>
 REST API: Enables interaction between the frontend and backend using HTTP methods.<br>
 Spring Data JPA: Simplifies data access and manipulation with a powerful repository abstraction.<br>
